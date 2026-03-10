@@ -1,11 +1,4 @@
-# O2C Mini ERP
-
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-Interactive-orange)
-![License](https://img.shields.io/github/license/sowmyapotharlanka1319-ux/O2C_Mini_ERP)
-![Last Commit](https://img.shields.io/github/last-commit/sowmyapotharlanka1319-ux/O2C_Mini_ERP)
-![Open Issues](https://img.shields.io/github/issues/sowmyapotharlanka1319-ux/O2C_Mini_ERP)
-
+## Overview
 **O2C Mini ERP** (Order-to-Cash Enterprise Resource Planning) is a Python-based application designed to manage and track the complete order-to-cash cycle for businesses. It provides modules for **sales order management, delivery tracking, and dashboard analytics**, enabling efficient handling of customer orders and deliveries.
 
 ---
